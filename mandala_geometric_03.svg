@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520"><g fill="none" stroke="#000" stroke-width="2"><circle cx="260" cy="260" r="180"/><circle cx="260" cy="260" r="130"/><circle cx="260" cy="260" r="80"/><g transform="translate(260,260)"><g id="petal"><path d="M0,-130 Q20,-60 0,0 Q-20,-60 0,-130Z"/></g><use href="#petal" transform="rotate(0.00)"/>
+<use href="#petal" transform="rotate(40.00)"/>
+<use href="#petal" transform="rotate(80.00)"/>
+<use href="#petal" transform="rotate(120.00)"/>
+<use href="#petal" transform="rotate(160.00)"/>
+<use href="#petal" transform="rotate(200.00)"/>
+<use href="#petal" transform="rotate(240.00)"/>
+<use href="#petal" transform="rotate(280.00)"/>
+<use href="#petal" transform="rotate(320.00)"/></g></g></svg>
